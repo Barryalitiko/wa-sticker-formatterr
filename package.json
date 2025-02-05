@@ -1,7 +1,7 @@
 {
   "name": "wa-sticker-formatter",
-  "version": "4.4.4",
-  "description": "Sticker Creator for WhatsApp",
+  "version": "5.0.0",
+  "description": "Sticker Creator for WhatsApp, modified by Krampus",
   "main": "dist",
   "types": "dist",
   "files": [
@@ -26,7 +26,7 @@
     "webp"
   ],
   "author": {
-    "name": "Alen Yohannan",
+    "name": "Alen Yohannan, modified by Krampus OM",
     "email": "alenyohannan71@gmail.com",
     "url": "https://github.com/AlenVelocity"
   },
